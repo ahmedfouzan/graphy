@@ -1,0 +1,26 @@
+{
+  "name": "graphy",
+  "version": "1.0.0",
+  "description": "A webapplication to make Lectures easy",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedfouzan/graphy.git"
+  },
+  "contributors": [
+    "Ahmed Fouzan <ahmedfouzan@gmail.com>",
+    "Abhilash K R <abhilash.khokle@gmail.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahmedfouzan/graphy/issues"
+  },
+  "homepage": "https://github.com/ahmedfouzan/graphy#readme",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.0.13",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
